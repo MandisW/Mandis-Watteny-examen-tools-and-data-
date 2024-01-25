@@ -1,1 +1,1 @@
-*Dit is de repo van Mandis Watteny*
+**Dit is de repo van Mandis Watteny**
